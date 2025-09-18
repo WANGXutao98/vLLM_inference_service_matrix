@@ -1,0 +1,12 @@
+{
+    "BaseModel": {
+        "class_name": "",
+        "model_path": "",
+        "chat_template": ""
+    },
+    "intent_7b": {
+        "class_name": "",
+        "model_path": "",
+        "model_type": "Qwen"
+    }
+}
